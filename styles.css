@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+}
+
+p {
+    text-wrap: wrap ;
+}
+
+h1 {
+    font-size: 50px;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h2, li {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+li {
+    list-style: none;
+    font-size: 25px;   
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    
+}
